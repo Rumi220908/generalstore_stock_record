@@ -1,0 +1,5 @@
+23/06/2026     Balaji              Purchase    12        62.0      744.0
+22/06/2026     Sugar               Purchase    5         42.0      210.0
+22/06/2026     Sugar               Purchase    5         42.0      210.0
+23/06/2026     Sugar               Sale        2         50.0      100.0
+27/06/2026     Sugar               Sale        3         50.0      150.0
